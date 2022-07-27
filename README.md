@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 🔥 My Stats :
+### Some of my Projects :
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hillaryke&repo=trillo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hillaryke&repo=trillo?theme=dark" />
 </a>
 
 --- 

@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ### Some of my Projects :
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hillaryke&repo=YouConnect&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hillaryke&repo=youconnect&theme=dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hillaryke&repo=trillo&theme=dark" />
 </a>
 

@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 ---
 
 ### Some of my Projects :
-<a href="https://github.com/hillaryke/YouConnect">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hillaryke&repo=youconnect&theme=dark" />
-</a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hillaryke&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 <a href="https://github.com/hillaryke/trillo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hillaryke&repo=trillo&theme=dark" />
 </a>

@@ -54,14 +54,12 @@ Here are some ideas to get you started:
 ---
 
 ### 🔥 My Stats :
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillaryke&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hillaryke&theme=dark" />
-</div>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/api/?username=hillaryke&repo=youconnect" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hillaryke&repo=trillo" />
+</a>
 
 --- 
-### Some of my Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hillaryke&repo=trillo)](https://github.com/anuraghazra/github-readme-stats)
 

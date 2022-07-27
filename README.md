@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
-    <a href="https://www.linkedin/in/hillaryke">
+    <a href="https://www.linkedin.com/in/hillaryke">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/hillarymk9">
@@ -13,11 +13,11 @@
 
 ---
 ## Hi I'm Hillary 👋
-I am a Maths and Computer Science student, a Full Stack developer. I have a passion of learning and sharing my knowledge. You can reach 
+I am a Maths and Computer Science student, a Full Stack developer. I have a passion of learning and sharing my knowledge. 
 
 - 🔭 I’m currently working on an ecommerce Microservices application
 - 🌱 I’m currently learning *RemixJS* and *CS algorithms*
-- 💻 I'm seeking ideas for 
+- ⭐ I'm seeking ideas and collaboration
 
 
 ### :hammer_and_wrench: Languages and Tools :

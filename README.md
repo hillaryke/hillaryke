@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   </div>
 </div>
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 

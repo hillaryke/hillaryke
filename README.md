@@ -54,8 +54,11 @@ Here are some ideas to get you started:
 ---
 
 ### 🔥 My Stats :
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillaryke&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hillaryke&theme=dark" />
+</div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillaryke&theme=dark" />
 
 --- 
 ### Some of my Projects

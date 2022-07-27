@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ### 🔥 My Stats :
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/api/?username=hillaryke&repo=youconnect" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/api/?username=hillaryke&repo=YouConnect" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hillaryke&repo=trillo" />

@@ -54,8 +54,10 @@ Here are some ideas to get you started:
 ---
 
 ### Some of my Projects :
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/hillaryke/YouConnect">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hillaryke&repo=youconnect&theme=dark" />
+</a>
+<a href="https://github.com/hillaryke/trillo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hillaryke&repo=trillo&theme=dark" />
 </a>
 

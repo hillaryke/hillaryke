@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hillaryke)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillarye&theme=dark" />
+
 --- 
 ### Some of my Projects
 

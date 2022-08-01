@@ -49,7 +49,7 @@ I am a Maths and Computer Science student, a Full Stack developer. I have a pass
 <a href="https://github.com/hillaryke/trillo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hillaryke&repo=trillo&theme=dark" />
 </a>
--->
 
 --- 
+-->
 

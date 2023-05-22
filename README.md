@@ -13,7 +13,7 @@
 
 ---
 ## Hi I'm Hillary 👋
-I am a Maths and Computer Science student, a Full Stack developer and machine learning enthusiast. I have a passion of learning and sharing my knowledge. 
+I am a Full Stack developer and machine learning enthusiast. I have a passion of learning and sharing my knowledge. 
 
 - 🔭 I’m currently working on an react web development
 - 🌱 I’m currently learning *RemixJS* and *CS algorithms*

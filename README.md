@@ -15,8 +15,8 @@
 ## Hi I'm Hillary 👋
 I am a Full Stack developer and machine learning enthusiast. I have a passion of learning and sharing my knowledge. 
 
-- 🔭 I’m currently working on an react web development
-- 🌱 I’m currently learning *RemixJS* and *CS algorithms*
+- 🔭 I’m currently working on upping my machine learning skills
+- 🌱 I’m currently learning *machine learning and CS algorithms*
 
 ### :hammer_and_wrench: Languages and Tools :
 

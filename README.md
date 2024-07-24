@@ -13,10 +13,11 @@
 
 ---
 ## Hi I'm Hillary 👋
-I am a Full Stack developer and machine learning enthusiast. I have a passion of learning and sharing my knowledge. 
+I am a Generative AI Engineer and a machine learning enthusiast with a background in Full Stack and Software development. I have a passion of learning and sharing my knowledge.
 
-- 🔭 I’m currently working on upping my machine learning skills
+- 🔭 I’m currently working on improving my Machine Learning and Generative AI Engineering skills
 - 🌱 I’m currently learning *machine learning and CS algorithms*
+- 📚 In my spare time, I like reading books, particularly on Philosophy.
 
 ### :hammer_and_wrench: Languages and Tools :
 

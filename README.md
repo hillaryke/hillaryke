@@ -21,7 +21,7 @@ I am a Generative AI Engineer and a machine learning enthusiast with a backgroun
 
 - 🔭 I’m currently working on improving my Machine Learning and Generative AI Engineering skills
 - 🌱 I’m currently learning *machine learning and CS algorithms*
-- 📚 In my spare time, I like reading books, particularly on Philosophy.
+- 📚 In my spare time, I like reading books.
 
 ### :hammer_and_wrench: Languages and Tools :
 
